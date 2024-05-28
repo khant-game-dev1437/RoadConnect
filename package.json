@@ -1,0 +1,20 @@
+{
+  "name": "Portugal",
+  "uuid": "a7e0c1a3-552e-4e7b-8167-92ebdf0bd44e",
+  "version": "3.5.2",
+  "creator": {
+    "version": "3.5.2"
+  },
+  "main": "main.js",
+  "contributions": {
+    "menu": [
+      {
+        "path": "Assets/Create/Level Manager",
+        "message": "create-level-manager"
+      }
+    ]
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}

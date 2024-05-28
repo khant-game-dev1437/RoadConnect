@@ -1,0 +1,101 @@
+{
+    "GameLevels": [
+      {
+        "LevelID": 0,
+        "xCount" : 2,
+        "yCount" : 2,
+        "AllPieces": [
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": 0, "startRotation": 270, "targetRotation": 0 },
+          { "PieceID": 0, "startRotation": 0, "targetRotation": 90 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": 0, "startRotation": 180, "targetRotation":  270},
+          { "PieceID": 0, "startRotation": 90, "targetRotation":  180},
+          { "PieceID": -1, "startRotation": 0, "targetRotation":  0},
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation":0 , "targetRotation":  0},
+          { "PieceID": -1, "startRotation":0 , "targetRotation":  0}
+        ]
+      },
+      {
+        "LevelID": 1,
+        "xCount" : 2,
+        "yCount" : 3,
+        "AllPieces": [
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": 0, "startRotation": 90, "targetRotation": 0 },
+          { "PieceID": 4, "startRotation": 0, "targetRotation": 90 },
+          { "PieceID": 4, "startRotation": 270, "targetRotation": 180 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation":  270},
+          { "PieceID": -1, "startRotation": 0, "targetRotation":  180},
+          { "PieceID": -1, "startRotation": 0, "targetRotation":  0},
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation":0 , "targetRotation":  0},
+          { "PieceID": -1, "startRotation":0 , "targetRotation":  0}
+        ]
+      },
+      {
+        "LevelID": 2,
+        "xCount" : 2,
+        "yCount" : 3,
+        "AllPieces": [
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": 6, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": 2, "startRotation": 0, "targetRotation": 180 },
+          { "PieceID": 3, "startRotation": 0, "targetRotation": 270 },
+          { "PieceID": 2, "startRotation": 0, "targetRotation": 180 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation":  270},
+          { "PieceID": -1, "startRotation": 0, "targetRotation":  180},
+          { "PieceID": -1, "startRotation": 0, "targetRotation":  0},
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation":0 , "targetRotation":  0},
+          { "PieceID": -1, "startRotation":0 , "targetRotation":  0}
+        ]
+      },
+      {
+        "LevelID": 3,
+        "xCount" : 3,
+        "yCount" : 3,
+        "AllPieces": [
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": 0, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": 6, "startRotation": 0, "targetRotation": 180 },
+          { "PieceID": 5, "startRotation": 0, "targetRotation": 90 },
+          { "PieceID": 5, "startRotation": 270, "targetRotation": 0 },
+          { "PieceID": 0, "startRotation": 0, "targetRotation": 270 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation":  270},
+          { "PieceID": -1, "startRotation": 0, "targetRotation":  180},
+          { "PieceID": -1, "startRotation": 0, "targetRotation":  0},
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation": 0, "targetRotation": 0 },
+          { "PieceID": -1, "startRotation":0 , "targetRotation":  0},
+          { "PieceID": -1, "startRotation":0 , "targetRotation":  0}
+        ]
+      }
+      
+    ]
+  }
+  
