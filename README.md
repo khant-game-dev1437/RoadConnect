@@ -3,7 +3,8 @@
 ## General informations
 - Cocos Creator does not have Scriptable Objects, so I store the data with JSON.
 - The game mechanic is to connect roads.
-
+- User can add the levelData in json field with its startRotation and targetRotation. The game will dynamically create levels based on JSON data.
+  
 ## EachLevelData.ts
 - This script handles of each level prefab and level data. It includeds locking or unlocking of its level.
 
